@@ -1,1 +1,2 @@
 # unskill
+mode : double mid
